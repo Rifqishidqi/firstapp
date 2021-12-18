@@ -59,3 +59,8 @@ Widget _buildRow(WordPair pair) {
 }
 
 }
+BIODATA MAHASISWA
+UNIVERSITAS NEGERI YOGYAKARTA
+2021<br>
+<from method="post"action="proses_textbox.php"?></from> <br>
+Nama Lengkap    :  <input type="text" nama lengkap"> <br>
